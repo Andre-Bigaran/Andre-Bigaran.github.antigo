@@ -50,7 +50,7 @@ body {
 
 .background img {
   width: 30%; 
-  position: relative;
+  position: fixed;
   left: 65%;
   top: 34vh;
 }
