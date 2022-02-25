@@ -209,6 +209,22 @@ body > section {
   }
 }
 
+@media screen and (max-width: 767px){
+
+  #HeaderNavbar > ul{
+     align-items: flex-start !important;
+  }
+
+  #HeaderNavbar > ul li.ml-auto{
+     margin-left: inherit !important;
+  }
+
+  #HeaderNavbar > ul li.ml-auto .mr-4{
+     margin-right: inherit !important;
+  }
+
+}
+
 
 /*************************
 *******Header******
