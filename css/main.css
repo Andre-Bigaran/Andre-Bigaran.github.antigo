@@ -146,7 +146,6 @@ hr {
   border-color: rgba(255, 255, 255, 0.5);
 }
 
-
 .dropdown-menu {
   margin-top: -1px;
   min-width: 180px;
@@ -195,7 +194,7 @@ body > section {
 img.background-anime {
   position: absolute;
   padding-right: 3%;
-  padding-top: 10%;
+  margin-top: 5%;
   top: 50%;
   transform: translateY(-50%);
   right: 1%;
