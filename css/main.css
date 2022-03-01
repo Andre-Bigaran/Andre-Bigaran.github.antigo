@@ -189,7 +189,7 @@ body > section {
   margin-bottom: 0;
 }
 
-.featured-img .index-page {
+img.background-anime {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
