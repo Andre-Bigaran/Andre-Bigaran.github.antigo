@@ -55,7 +55,8 @@ body {
 }
 
 .container-fluid {
-  padding: 20px;
+  padding: 10%;
+  position: fixed;
 }
 
 h1,
