@@ -56,8 +56,8 @@ body {
 
 .container-fluid {
   padding-top: 5%;
-  padding-right: 5%;
-  padding-left: 5%;
+  padding-right: 10%;
+  padding-left: 10%;
   position: fixed;
 }
 
@@ -254,8 +254,7 @@ body > section {
  }
 
 .navbar-nav>li{
-  margin-left: 35px;
-  padding-bottom: 28px;
+  margin-left: 45px;
 }
 
 .navbar-inverse .navbar-nav > li > a {
