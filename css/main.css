@@ -96,11 +96,13 @@ h4{
 }
 
 a {
-  color: #6307bf;
+  color: #fff;
   -webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
   transition:  color 300ms, background-color 300ms;
+  text-decoration-line: none;
+  font-weight: bold;
 }
 
 a:hover, a:focus {
