@@ -9,7 +9,6 @@ body {
   background: #050b18;
   font-family: 'Montserrat', sans-serif;
   color:#4e4e4e;
-  
   line-height: 22px;
   resize: both;
 }
@@ -53,6 +52,10 @@ body {
   position: fixed;
   left: 65%;
   top: 34vh;
+}
+
+.container-fluid {
+  padding: 20px;
 }
 
 h1,
