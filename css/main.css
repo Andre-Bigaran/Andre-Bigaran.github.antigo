@@ -13,6 +13,10 @@ body {
   resize: both;
 }
 
+.nav-link {
+  color: #fff;
+}
+
 .downloadButton {
   padding: 5px 12px;
   border-radius: 20px;
@@ -257,9 +261,7 @@ body > section {
   margin-left: 45px;
 }
 
-a.nav-link {
-  color: #fff;
-}
+
 
 .navbar-inverse .navbar-nav > li > a {
   padding: 5px 12px;
