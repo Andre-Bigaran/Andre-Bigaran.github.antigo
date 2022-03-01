@@ -65,6 +65,19 @@ body {
   position: fixed;
 }
 
+.featured-img.index-page {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1%;
+  z-index: -1;
+  width: 45%!important;
+  height: auto!important;
+  filter: drop-shadow(0px 0px 50px black);
+  user-select: none;
+  transition: .3s;
+  animation: pulseIndex 4s infinite linear;
+
 h1,
 h2,
 h3,
