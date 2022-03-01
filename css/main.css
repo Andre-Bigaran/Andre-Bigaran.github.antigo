@@ -1280,3 +1280,12 @@ shortcodes page css
   display: inline-block;
   margin-left: 15px;
 }
+
+.footer-home {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
