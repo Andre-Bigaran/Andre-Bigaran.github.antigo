@@ -109,7 +109,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #6307bf;
+  color: #050b18;
 }
 
 hr {
@@ -194,14 +194,11 @@ body > section {
   margin-bottom: 0;
 }
 
-.copyright {
-
-}
 
 img.background-anime {
   position: absolute;
   padding-right: 3%;
-  padding-top: 60%;
+  padding-top: 10%;
   top: 50%;
   transform: translateY(-50%);
   right: 1%;
