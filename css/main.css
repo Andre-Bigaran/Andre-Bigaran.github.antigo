@@ -189,6 +189,10 @@ body > section {
   margin-bottom: 0;
 }
 
+.copyright {
+
+}
+
 img.background-anime {
   position: absolute;
   padding-right: 3%;
@@ -1249,6 +1253,13 @@ shortcodes page css
   padding-bottom: 30px;
   color: #fff;
   background: #2e2e2e;
+}
+
+#footer b {
+  height: 35px; 
+  bottom: 0px; 
+  text-align: center; 
+  line-height: 35px;
 }
 
 #footer a {
