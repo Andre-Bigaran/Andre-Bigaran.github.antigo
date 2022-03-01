@@ -192,7 +192,7 @@ body > section {
 img.background-anime {
   position: absolute;
   padding-right: 3%;
-  padding-top: 5%;
+  padding-top: 10%;
   top: 50%;
   transform: translateY(-50%);
   right: 1%;
