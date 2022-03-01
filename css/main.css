@@ -294,11 +294,12 @@ body > section {
   color: #fff;
 }
 
+/*
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .open > a:hover {
     background-color: rgb(255, 255, 255);
   color: #6307bf;
-}
+}*/
 
 .navbar-inverse .navbar-nav .dropdown-menu {
   background-color: #050b18;
