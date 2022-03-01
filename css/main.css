@@ -1284,7 +1284,7 @@ shortcodes page css
 .footer-home {
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 2%;
   width: 100%;
   color: white;
   text-align: center;
