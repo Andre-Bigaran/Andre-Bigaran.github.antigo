@@ -65,6 +65,10 @@ body {
   position: fixed;
 }
 
+.white-text {
+  color: #fff;
+}
+
 h1,
 h2,
 h3,
