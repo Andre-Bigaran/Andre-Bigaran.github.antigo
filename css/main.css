@@ -189,6 +189,22 @@ body > section {
   margin-bottom: 0;
 }
 
+img.logo > a:hover {
+  position: absolute;
+  padding-right: 3%;
+  padding-top: 10%;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1%;
+  z-index: -1;
+  width: 35%!important;
+  height: auto!important;
+  filter: drop-shadow(0px 0px 50px black);
+  user-select: none;
+  transition: .3s;
+  animation: pulseIndex 4s infinite linear;
+}
+
 img.background-anime {
   position: absolute;
   padding-right: 3%;
