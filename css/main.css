@@ -294,8 +294,8 @@ body > section {
   color: #fff;
 }
 
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .open > a:hover {
+.nav-item .active > a:hover,
+.nav-item .open > a:hover {
     background-color: rgb(255, 255, 255);
   color: #6307bf;
 }
